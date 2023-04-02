@@ -1,0 +1,10 @@
+eastereggs_hug:
+    creeper:
+        - "Trying to hug a creeper is a terrible idea."
+    spider:
+        - "Nope. Nope! Nope!!"
+        - "Little known fact: Spiders are the best huggers in the word. They have 8 arms!"
+    zombie:
+        - "Do you want more zombies? Because that's how you get more zombies!"
+    slime:
+        - "Ewwww..."

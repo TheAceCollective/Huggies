@@ -1,0 +1,9 @@
+name: Huggies
+version: '${project.version}'
+main: theacecollective.huggies.Huggies
+api-version: 1.13
+
+commands:
+  hug:
+    usage: "/hug <player>"
+    description: "Hug someone -{^_^}-"
